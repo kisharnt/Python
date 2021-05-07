@@ -1,0 +1,15 @@
+Installing pandas on VS Code 
+
+Create project folder C:\Users\Downloads\Learning\Python\Test
+Create virtual ennvironment to install pandas:
+  Input (python -m venv C:\Users\Downloads\Learning\Python\Test\venv) in terminal 
+ 
+ Once "venv" folder created, click "new terminal" and run pip install matplotlib
+ 
+ Run test code to check:
+  import matplotlib.pyplot as plt
+  x = [24,25,26]
+  y = [23,24,25]
+
+  plt.plot(x,y)
+  plt.show()
