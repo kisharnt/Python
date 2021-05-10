@@ -1,2 +1,2 @@
 # Python-Beginnings
-Documentation of my Python Journey 
+Documentation of Python learnings
