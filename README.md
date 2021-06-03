@@ -1,2 +1,3 @@
-# Python-Beginnings
-Documentation of Python learnings
+# Python
+
+Data exploration in Python
