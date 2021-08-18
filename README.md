@@ -1,3 +1,3 @@
 # Python
 
-Data exploration in Python
+Python coding projects and notes 
