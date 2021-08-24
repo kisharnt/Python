@@ -1,3 +1,3 @@
 # Python
 
-Python coding projects and notes 
+Python notes and projects
